@@ -1,0 +1,7 @@
+Package: ivms4200                
+Version: 1.0.0-2
+Architecture: adm64
+Maintainer:  Syrotin.V
+Section: cctv
+Priority: optional
+Description: Software video ivms
